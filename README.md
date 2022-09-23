@@ -8,18 +8,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Módulo 1: Introdução - Unix & Shell
 
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Módulo 2: Git & GitHub
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Módulo 3: Introdução - HTML & CSS
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-4: _HTML Semântico_
 - [X] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: Introdução - JavaScript
+##### Módulo 4: Introdução - JavaScript
 
 - [X] 4-1: _JavaScript - Primeiros passos_
 - [X] 4-2: _JavaScript - Array e loop For_
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [X] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Módulo 5: Introdução - JavaScript - Projetos
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -47,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado
+##### Módulo 6: HTML & CSS avançado
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -56,14 +56,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [X] 6-6: _[Projeto - Formulário Trybewarts]()_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Módulo 7: JavaScript ES6 & Testes Unitários
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Objects_
 - [X] 7-3: _Testes unitários em JavaScript_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### Módulo 8: JavaScript ES6
 
 - [X] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
@@ -71,74 +71,69 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [X] 8-5: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
-
-- [X] 9-1: _JavaScript Assíncrono e Callbacks_
-- [X] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
-
-##### Bloco 10: Jest
-
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
-
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### Módulo 1: Assincronicidade, Callbacks & Jest
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [X] 1-1: _JavaScript Assíncrono e Callbacks_
+- [X] 1-2: _JavaScript Promises_
+- [X] 1-3: _Primeiros passos no Jest_
+- [X] 1-3: _Jest - Testes Assíncronos_
+- [X] 1-3: _Jest - Simulando comportamentos_
+- [X] 1-4: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 12: React
+##### Módulo 2: Introdução - React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [X] 2-1: _'Hello, world!' no React!_
+- [X] 2-2: _Componentes React_
+- [X] 2-3: _[Projeto - Solar System]()_
 
-##### Bloco 13: React
+##### Módulo 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [X] 3-1: _Components com estado_
+- [X] 3-2: _Eventos e formulários no React_
+- [X] 3-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Módulo 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [X] 4-1: _Ciclo de vida de componentes em React_
+- [X] 4-2: _React Router_
+- [X] 4-3: _[Projeto - Trybetunes]()_
 
-##### Bloco 15: Testes em React
+##### Módulo 5: Metodologias Ágeis
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [X] 5-1: _Metodologias Ágeis_
+- [X] 5-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 16: Introdução ao Redux
+##### Módulo 6: Testes automatizados com React Testing Library
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [X] 6-1: _Testando React com a React Testing Library_
+- [X] 6-2: _Testando React com a React Testing Library - Parte 2_
+- [X] 6-3: _[Projeto - Testes em React]()_
 
-##### Bloco 17: Projeto React
+##### Módulo 7: Introdução ao Redux
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [X] 7-1: _Introdução ao Redux_
+- [ ] 7-2: _React com Redux - Parte 1_
+- [ ] 7-3: _React com Redux - Prática_
+- [ ] 7-4: _React com Redux - Parte 2_
+- [ ] 7-5: _Testes síncronos com React-Redux_
+- [ ] 7-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 18: React & Context API
+##### Módulo 8: Projeto React
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ ] 8-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 19: Projeto Final de Front-end
+##### Módulo 9: React & Context API
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [ ] 9-1: _Context API do React_
+- [ ] 9-2: _React Hooks - useState e useContext_
+- [ ] 9-3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+##### Módulo 10: Projeto Final de Front-end
+
+- [ ] 10-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
