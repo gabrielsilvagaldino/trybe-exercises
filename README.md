@@ -114,19 +114,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Módulo 7: Introdução ao Redux
 
 - [X] 7-1: _Introdução ao Redux_
-- [ ] 7-2: _React com Redux - Parte 1_
-- [ ] 7-3: _React com Redux - Prática_
-- [ ] 7-4: _React com Redux - Parte 2_
-- [ ] 7-5: _Testes síncronos com React-Redux_
-- [ ] 7-6: _[Projeto - Trybe Wallet]()_
+- [x] 7-2: _React com Redux - Parte 1_
+- [x] 7-3: _React com Redux - Prática_
+- [x] 7-4: _React com Redux - Parte 2_
+- [x] 7-5: _Testes síncronos com React-Redux_
+- [x] 7-6: _[Projeto - Trybe Wallet]()_
 
 ##### Módulo 8: Projeto React
 
-- [ ] 8-1: _[Projeto - Jogo de Trivia]()_
+- [x] 8-1: _[Projeto - Jogo de Trivia]()_
 
 ##### Módulo 9: React & Context API
 
-- [ ] 9-1: _Context API do React_
+- [x] 9-1: _Context API do React_
 - [ ] 9-2: _React Hooks - useState e useContext_
 - [ ] 9-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
